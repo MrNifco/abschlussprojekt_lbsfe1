@@ -1,7 +1,4 @@
 <?php
-
-
-
 $websiteTitle = "ServerPro Solutions";
 $headerTitle = "ServerPro Solutions";
 $footerDescription = "© 2023 ServerPro Solutions. All rights reserved.";
